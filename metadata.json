@@ -1,0 +1,7 @@
+{
+  "name": "InfluencerGen AI",
+  "description": "Create consistent AI influencers from a single reference photo. Generate diverse poses and scenes while maintaining facial identity.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
